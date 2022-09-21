@@ -1,1 +1,2 @@
-# profnovo
+# 2EMIB
+Repositório de aula.
